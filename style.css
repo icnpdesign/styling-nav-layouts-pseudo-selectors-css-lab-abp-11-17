@@ -91,5 +91,8 @@ nav a:hover{
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
-  border-color: #007bff
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
 }
