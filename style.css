@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -69,8 +69,10 @@ nav a:hover{
   color: #0056b3;
 }
 
-
-
+#header a:hover {
+  text-decoration: underline;
+  
+}
 
 
 
